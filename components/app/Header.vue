@@ -2,7 +2,6 @@
 </template>
 
 <script>
-
 </script>
 
 <style>

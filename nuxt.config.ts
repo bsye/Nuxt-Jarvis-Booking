@@ -15,5 +15,9 @@ export default defineNuxtConfig({
       ],
 
     i18n: {
-    }
+    },
+
+    imports: {
+        dirs: ['./stores'],
+    },
 })
